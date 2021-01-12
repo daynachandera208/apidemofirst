@@ -112,6 +112,6 @@ router.route('/get_game').post((request,response)=>{
     games.getGame(request,response);
 })
 
-var port = process.env.PORT = 3306;
+var port = process.env.PORT = 4001;
 app.listen(port);
 console.log('API running on port no : ' + port);

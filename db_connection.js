@@ -1,7 +1,7 @@
 const mysql = require('mysql');
 
 var con = mysql.createConnection({
-  host: "https://gaming.infozium.in/adminer.php",
+  host: "localhost",
   user: "infozium.in",
   password: "pbqtST9nx7isrjD",
   database : "gaming_infozium"
