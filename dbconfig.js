@@ -1,10 +1,10 @@
 const mysql = require('mysql');
 
 // const config = mysql.createConnection({
-//   host: "localhost",
-//   user: "root",
-//   password: "12345678",
-//   database : "playmax"
+//   host: "https://gaming.infozium.in/adminer.php/",
+//   user: "infozium.in",
+//   password: "pbqtST9nx7isrjD",
+//   database : "gaming_infozium"
 // })
 
 // config.connect(function(err) {

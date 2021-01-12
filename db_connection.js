@@ -2,9 +2,9 @@ const mysql = require('mysql');
 
 // var con = mysql.createConnection({
 //   host: "localhost",
-//   user: "infozium.in",
-//   password: "pbqtST9nx7isrjD",
-//   database : "gaming_infozium"
+//   user: "root",
+//   password: "12345678",
+//   database : "playmax"
 // });
 
 // con.connect(function(err) {
@@ -12,4 +12,4 @@ const mysql = require('mysql');
 //   console.log("Connected!");
 // });
 
-module.exports = con;
+// module.exports = con;
